@@ -1,2 +1,2 @@
 # Algorithm
-Algirithms Solu
+My Solutions to CodeWar algorithms
