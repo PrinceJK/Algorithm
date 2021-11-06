@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace Algorithm
+﻿namespace Algorithm
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine(Kata.Kata5.ParseMolecule("H2O").ToString());
         }
     }
 }

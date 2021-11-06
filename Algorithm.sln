@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{5FCF5226-FA23-4071-A652-85FBCB64DCC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{DFF858BF-F30E-4874-B86C-7E336B9AA5A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5FCF5226-FA23-4071-A652-85FBCB64DCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FCF5226-FA23-4071-A652-85FBCB64DCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FCF5226-FA23-4071-A652-85FBCB64DCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF858BF-F30E-4874-B86C-7E336B9AA5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF858BF-F30E-4874-B86C-7E336B9AA5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF858BF-F30E-4874-B86C-7E336B9AA5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF858BF-F30E-4874-B86C-7E336B9AA5A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
