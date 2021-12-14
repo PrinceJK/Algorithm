@@ -1,5 +1,5 @@
-﻿using ContactManager_Array;
-using ContactManager_Array.Filters;
+﻿using ContactManager_BinaryTree;
+using ContactManager_BinaryTree.Filters;
 using System.Collections.Generic;
 
 namespace cm_BinaryTree.Commands

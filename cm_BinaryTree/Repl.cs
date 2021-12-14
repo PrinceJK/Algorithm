@@ -1,15 +1,12 @@
 ﻿using cm_BinaryTree.Commands;
-using ContactManager_Array;
+using ContactManager_BinaryTree;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
-namespace cm_BinaryTree
+namespace cm_BinaryTree.Commands
 {
     internal class Repl
     {

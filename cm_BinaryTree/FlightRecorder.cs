@@ -1,9 +1,7 @@
-﻿using ContactManager_Array;
+﻿using ContactManager_BinaryTree;
+using DataStructures;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace cm_BinaryTree
 {
