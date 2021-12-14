@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager_BinaryTree", "ContactManager_BinaryTree\ContactManager_BinaryTree.csproj", "{6F635D9E-9A9A-4055-8BAB-E9FDCD860AB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagerTest_BinaryTree", "ContactManagerTest_BinaryTree\ContactManagerTest_BinaryTree.csproj", "{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{6F635D9E-9A9A-4055-8BAB-E9FDCD860AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F635D9E-9A9A-4055-8BAB-E9FDCD860AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F635D9E-9A9A-4055-8BAB-E9FDCD860AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +106,7 @@ Global
 		{A0D95068-E6B3-4139-9ADF-16C993F6467B} = {E9E2E120-10BA-4894-93F5-391904C3F6CE}
 		{B1F457BA-D7B0-4895-84D3-B833F2BBD2C1} = {A0D95068-E6B3-4139-9ADF-16C993F6467B}
 		{6F635D9E-9A9A-4055-8BAB-E9FDCD860AB6} = {C36496E7-CCAB-468F-8C99-BB26741FEDFC}
+		{3A349037-6BDC-41E4-97B1-3B7F1AE8507A} = {C36496E7-CCAB-468F-8C99-BB26741FEDFC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4F1577F1-A53D-4F62-8E41-78F25CEFF1AB}
