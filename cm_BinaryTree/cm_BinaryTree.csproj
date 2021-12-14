@@ -6,8 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kata\Kata.csproj" />
-    <ProjectReference Include="..\Random\Random.csproj" />
+    <ProjectReference Include="..\ContactManager_Array\ContactManager_Array.csproj" />
   </ItemGroup>
 
 </Project>
