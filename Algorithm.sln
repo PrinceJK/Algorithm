@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm", "Algorithm\Algorithm.csproj", "{5FCF5226-FA23-4071-A652-85FBCB64DCC8}"
 EndProject
@@ -25,17 +25,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManagerTests_Array",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContactManager_BinaryTree", "ContactManager_BinaryTree", "{C36496E7-CCAB-468F-8C99-BB26741FEDFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cm_BinaryTree", "cm_BinaryTree\cm_BinaryTree.csproj", "{A69BB6BB-0983-4C89-AAC1-82F1B0634EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cm_BinaryTree", "cm_BinaryTree\cm_BinaryTree.csproj", "{A69BB6BB-0983-4C89-AAC1-82F1B0634EB5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADS1", "ADS1", "{E9E2E120-10BA-4894-93F5-391904C3F6CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStructures", "{A0D95068-E6B3-4139-9ADF-16C993F6467B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{B1F457BA-D7B0-4895-84D3-B833F2BBD2C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures", "DataStructures\DataStructures.csproj", "{B1F457BA-D7B0-4895-84D3-B833F2BBD2C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager_BinaryTree", "ContactManager_BinaryTree\ContactManager_BinaryTree.csproj", "{6F635D9E-9A9A-4055-8BAB-E9FDCD860AB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManager_BinaryTree", "ContactManager_BinaryTree\ContactManager_BinaryTree.csproj", "{6F635D9E-9A9A-4055-8BAB-E9FDCD860AB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagerTest_BinaryTree", "ContactManagerTest_BinaryTree\ContactManagerTest_BinaryTree.csproj", "{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManagerTest_BinaryTree", "ContactManagerTest_BinaryTree\ContactManagerTest_BinaryTree.csproj", "{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{CAC073A0-CEC1-40F2-8106-C813220C0351}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,10 @@ Global
 		{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A349037-6BDC-41E4-97B1-3B7F1AE8507A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC073A0-CEC1-40F2-8106-C813220C0351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC073A0-CEC1-40F2-8106-C813220C0351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC073A0-CEC1-40F2-8106-C813220C0351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC073A0-CEC1-40F2-8106-C813220C0351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

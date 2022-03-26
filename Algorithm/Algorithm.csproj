@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\HackerRank\HackerRank.csproj" />
     <ProjectReference Include="..\Kata\Kata.csproj" />
     <ProjectReference Include="..\Random\Random.csproj" />
   </ItemGroup>

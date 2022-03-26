@@ -1,4 +1,6 @@
-﻿using Random;
+﻿using System;
+using HackerRank;
+using Random;
 
 namespace Algorithm
 {
@@ -13,9 +15,13 @@ namespace Algorithm
             var sln = Challenge.ReturnOddNumbers(chk);
             foreach (var item in sln)
             {
-                System.Console.WriteLine(item);
+                //System.Console.WriteLine(item);
             }
-            
+
+
+            var res = Solution.CatAndMouse(1, 3, 2);
+            Console.WriteLine(res);
+
         }
     }
 }
