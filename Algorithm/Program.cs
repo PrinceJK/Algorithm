@@ -1,6 +1,6 @@
-﻿using System;
-using HackerRank;
-using Random;
+﻿
+using System;
+using LeetCode;
 
 namespace Algorithm
 {
@@ -8,20 +8,23 @@ namespace Algorithm
     {
         static void Main(string[] args)
         {
-            //System.Console.WriteLine(Kata.Kata5.ParseMolecule("H2O").ToString());
+            Array arr = new Array(2);
+            arr.Insert(1);
+            arr.Insert(2);
+            arr.Insert(3);
+            arr.Insert(4);
+            arr.Insert(1000000000);
+            arr.Insert(5);
+            arr.Insert(6);
+            arr.Insert(7);
+            arr.Insert(8);
+            arr.Insert(9);
+            arr.Insert(10);
+            Console.WriteLine(arr.Max());
+            
+            
 
-            //LaptopRentalsSol1.LaptopRentals(new int[][] { new int[] {} });
-            int [] chk = new int[] { 1, 2, 3 };
-            var sln = Challenge.ReturnOddNumbers(chk);
-            foreach (var item in sln)
-            {
-                //System.Console.WriteLine(item);
-            }
-
-
-            var res = Solution.CatAndMouse(1, 3, 2);
-            Console.WriteLine(res);
-
+            Console.ReadLine();
         }
     }
 }

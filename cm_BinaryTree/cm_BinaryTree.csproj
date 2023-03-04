@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ContactManager_BinaryTree\ContactManager_BinaryTree.csproj" />
-    <ProjectReference Include="..\DataStructures\DataStructures.csproj" />
   </ItemGroup>
 
 </Project>
